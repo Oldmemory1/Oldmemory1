@@ -1,6 +1,7 @@
 北京理工大学某大二学生，了解一些C++的基础知识，对Minecraft的GTNH整合包很感兴趣。
 A College Student From BIT,who have learnt some C++ basic knowledge.I am very interested in GTNH modpack.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Oldmemory1/Oldmemory1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
