@@ -1,8 +1,5 @@
-如果想要联系本人，请直接在本人任意项目下发issue即可
-北京理工大学某大二学生，了解一些C++的基础知识，对Minecraft的GTNH整合包很感兴趣。
-A College Student From BIT,who have learnt some C++ basic knowledge.I am very interested in GTNH modpack.
-个人成分非常复杂，同时作为：
-女装大佬&计科人&GTNH人&柚子厨&p社战犯&从事mc中科技模组精英研究
+坐标北京。
+某大学牲，平时情绪波动严重，mtx，计算机科学与技术专业，偏执狂，极端唯物主义+排外主义，喜欢gal，Minecraft，群星。
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
