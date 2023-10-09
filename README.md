@@ -1,5 +1,5 @@
-坐标北京。
-某大学牲，平时情绪波动严重，mtx，计算机科学与技术专业，偏执狂，极端唯物主义+排外主义，喜欢gal，Minecraft，群星。
+Java developer
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
