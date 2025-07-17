@@ -1,5 +1,5 @@
-Java developer
-
+A postgraduate student from BIT
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
