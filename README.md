@@ -1,4 +1,4 @@
-A postgraduate student from BeiJing Institution Technology. 
+A postgraduate student from BeiJing Institute of Technology. 
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
