@@ -1,7 +1,16 @@
 A postgraduate student from BeiJing Institute of Technology. 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldmemory1)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Oldmemory1&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Oldmemory1&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oldmemory1&show_icons=true" />
+</picture>
 <!--
 **Oldmemory1/Oldmemory1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
